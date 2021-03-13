@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OSM_ilce/static/css/main.e536d190.chunk.css",
+    "main.js": "/OSM_ilce/static/js/main.582a4551.chunk.js",
+    "main.js.map": "/OSM_ilce/static/js/main.582a4551.chunk.js.map",
+    "runtime-main.js": "/OSM_ilce/static/js/runtime-main.7f1fef71.js",
+    "runtime-main.js.map": "/OSM_ilce/static/js/runtime-main.7f1fef71.js.map",
+    "static/css/2.7ebcfb48.chunk.css": "/OSM_ilce/static/css/2.7ebcfb48.chunk.css",
+    "static/js/2.f9b598f2.chunk.js": "/OSM_ilce/static/js/2.f9b598f2.chunk.js",
+    "static/js/2.f9b598f2.chunk.js.map": "/OSM_ilce/static/js/2.f9b598f2.chunk.js.map",
+    "static/js/3.bc723531.chunk.js": "/OSM_ilce/static/js/3.bc723531.chunk.js",
+    "static/js/3.bc723531.chunk.js.map": "/OSM_ilce/static/js/3.bc723531.chunk.js.map",
+    "index.html": "/OSM_ilce/index.html",
+    "static/css/2.7ebcfb48.chunk.css.map": "/OSM_ilce/static/css/2.7ebcfb48.chunk.css.map",
+    "static/css/main.e536d190.chunk.css.map": "/OSM_ilce/static/css/main.e536d190.chunk.css.map",
+    "static/js/2.f9b598f2.chunk.js.LICENSE.txt": "/OSM_ilce/static/js/2.f9b598f2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/OSM_ilce/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f1fef71.js",
+    "static/css/2.7ebcfb48.chunk.css",
+    "static/js/2.f9b598f2.chunk.js",
+    "static/css/main.e536d190.chunk.css",
+    "static/js/main.582a4551.chunk.js"
+  ]
+}
